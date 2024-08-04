@@ -56,9 +56,9 @@ namespace Tetris
             Random rand = new Random();
             RenderWindow window = new RenderWindow(new VideoMode(320, 480), "The Game!");
 
-            Texture t1 = new Texture("images/tiles.png");
-            Texture t2 = new Texture("images/background.png");
-            Texture t3 = new Texture("images/frame.png");
+            Texture t1 = new Texture("D:\\Users\\user\\Documents\\Project\\TetrisCSharpSFML\\images/tiles.png");
+            Texture t2 = new Texture("D:\\Users\\user\\Documents\\Project\\TetrisCSharpSFML\\images/background.png");
+            Texture t3 = new Texture("D:\\Users\\user\\Documents\\Project\\TetrisCSharpSFML\\images/frame.png");
 
             Sprite s = new Sprite(t1);
             Sprite background = new Sprite(t2);
