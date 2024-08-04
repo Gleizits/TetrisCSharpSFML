@@ -38,7 +38,7 @@ Tetris is a well-known tile-matching puzzle game where players manipulate fallin
 
 ## Credits
 
-This project is inspired by and based on the Tetris implementation by FamTrinLi. You can watch the tutorial and follow along with FamTrinLi’s videos on their [YouTube channel](https://www.youtube.com/user/FamTrinLi).
+This project is inspired by and based on the Tetris implementation by FamTrinLi. You can watch the tutorial and follow along with FamTrinLiâ€™s videos on their [YouTube channel](https://www.youtube.com/user/FamTrinLi).
 
 ## License
 
