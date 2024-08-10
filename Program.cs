@@ -212,6 +212,7 @@ namespace Tetris
 
             Console.WriteLine("Game Over");
             Console.WriteLine("Your score: " + score);
+            Console.ReadKey();
         }
     }
 }
